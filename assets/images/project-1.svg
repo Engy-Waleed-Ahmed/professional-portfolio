@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Portfolio website illustration">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#g)"/>
+  <circle cx="540" cy="40" r="90" fill="#fff" opacity=".1"/>
+  <rect x="90" y="50" width="420" height="270" rx="16" fill="#fff"/>
+  <path d="M90 66a16 16 0 0 1 16-16h388a16 16 0 0 1 16 16v26H90z" fill="#0F172A"/>
+  <circle cx="112" cy="71" r="5" fill="#F87171"/><circle cx="130" cy="71" r="5" fill="#FBBF24"/><circle cx="148" cy="71" r="5" fill="#34D399"/>
+  <rect x="115" y="115" width="150" height="14" rx="7" fill="#0F172A"/>
+  <rect x="115" y="140" width="110" height="10" rx="5" fill="#2563EB"/>
+  <rect x="115" y="165" width="170" height="7" rx="3.5" fill="#CBD5E1"/>
+  <rect x="115" y="180" width="150" height="7" rx="3.5" fill="#CBD5E1"/>
+  <rect x="115" y="205" width="70" height="26" rx="8" fill="#2563EB"/>
+  <rect x="195" y="205" width="70" height="26" rx="8" fill="none" stroke="#2563EB" stroke-width="2"/>
+  <circle cx="400" cy="170" r="55" fill="#DBEAFE"/>
+  <circle cx="400" cy="155" r="20" fill="#2563EB"/>
+  <path d="M362 210c0-22 17-35 38-35s38 13 38 35z" fill="#38BDF8"/>
+  <rect x="115" y="255" width="80" height="45" rx="8" fill="#F1F5F9"/>
+  <rect x="210" y="255" width="80" height="45" rx="8" fill="#F1F5F9"/>
+  <rect x="305" y="255" width="80" height="45" rx="8" fill="#F1F5F9"/>
+  <rect x="400" y="255" width="85" height="45" rx="8" fill="#F1F5F9"/>
+</svg>
